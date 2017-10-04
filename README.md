@@ -17,6 +17,6 @@ To run tool
 
 Usage:
 
-type: ./BrtForTe.py -e or --examples To Know How usage :)
+type: ./BrtForTe.py -e or --examples If you wanna know how to use it
 
 That's All:
